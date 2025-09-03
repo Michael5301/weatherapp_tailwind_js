@@ -1,0 +1,24 @@
+#api key for weather app
+1e777de4dcfb9942c24f54bc6d9f4c62
+
+
+structure
+
+seach input | search btn
+
+weather image
+
+temp
+city
+
+Humidity(image + %) + wind (image + km/h)
+
+
+https://api.openweathermap.org/data/2.5/weather?q=stockholm&appid=1e777de4dcfb9942c24f54bc6d9f4c62&units=metric
+https://api.openweathermap.org/data/2.5/weather?&units=metric
+https://api.openweathermap.org/data/2.5/weather?
+appid=1e777de4dcfb9942c24f54bc6d9f4c62
+
+q=stockholm&appid=1e777de4dcfb9942c24f54bc6d9f4c62
+
+''

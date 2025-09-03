@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+#body {
+    background-image: radial-gradient(circle 500px at 50% 300px,
+            rgba(16,185,129,0.35), transparent);
+}
+
+*{
+    font-family:'poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+#weatherCard {
+    width: 450px;
+    background: linear-gradient(135deg, #00feba, #5b548a);
+    color: #fff;
+    text-align: center;
+}
+
