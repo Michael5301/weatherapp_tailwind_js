@@ -37,7 +37,7 @@ async function checkWeather(city) {
 
         document.querySelector('.weatherInfoCard').style.display = 'block';
         document.querySelector('.error').style.display = 'none';
-        document.querySelector('.weatherInfoCard').classList.remove('hidden');
+        // document.querySelector('.weatherInfoCard').classList.remove('hidden');
     }
 
 
